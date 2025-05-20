@@ -1,4 +1,3 @@
-```markdown
 # Time-Based Greeting Script
 
 A simple Python script that prints the current time and displays a context-appropriate greeting (e.g., "Good Morning", "Good Night") based on your system time.
